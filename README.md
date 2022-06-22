@@ -22,9 +22,10 @@ Comment utliser :
 
 ![image](https://user-images.githubusercontent.com/3520243/175125174-8bbea54f-83ec-483a-bd40-9da0952fbe32.png)
 
-7- Après le début de la séance cliquer sur "compteur" pour afficher le compteur à rebours pour la fin de séance
+7- Après le début de la séance cliquer sur "compteur" pour afficher le compteur à rebours plein écran pour la fin de séance
 
-![image](https://user-images.githubusercontent.com/3520243/175125712-70207fe5-913c-4913-9c8d-c41473273855.png)
+![image](https://user-images.githubusercontent.com/3520243/175127447-197cef09-6e1d-4028-9c8e-ad3d0637be26.png)
+
 
 8- A la fin de séance , l'application clignote et émet un son 
 
