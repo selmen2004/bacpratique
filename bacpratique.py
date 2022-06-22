@@ -99,7 +99,7 @@ counter_button.pack(side='right')
 user_controls.pack(side='bottom')
 spin_button = tk.Button(user_controls, text="Tourner", command=spinner)
 spin_button.pack(side='right')
-print("jjjj")
+
 
 
 

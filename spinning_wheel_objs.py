@@ -243,7 +243,7 @@ class Exam:
             examtime = datetime.datetime.now().replace(hour=13,minute=0 , second=0)
             if examtime  + datetime.timedelta(hours=1) >= timenow >= examtime :
                 return(examtime,60)
-            examtime = datetime.datetime.now().replace(hour=17,minute=41 , second=0)
+            examtime = datetime.datetime.now().replace(hour=14,minute=30 , second=0)
             if examtime  + datetime.timedelta(hours=1) >= timenow >= examtime :
                 return(examtime,60)
             print("No remaining Exams")
